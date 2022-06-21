@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
-layout: tags
+title: "Information zur Studie"
+permalink: /studyInfo/
+layout: single
 author_profile: true
 ---
