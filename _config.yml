@@ -42,11 +42,11 @@ remote_theme: mmistakes/minimal-mistakes
 # paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 markdown: kramdown
-kramdown:
-  gfm_quirks: [paragraph_end]
+#kramdown:
+#  gfm_quirks: [paragraph_end]
 
-include:
-  - _pages
+#include:
+#_pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -61,7 +61,7 @@ include:
 #   - vendor/ruby/
 
 # Plugins (previously gems:)
-plugins:
+#plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -75,7 +75,7 @@ author:
   bio    : "Studie zur Erforschung von Multitasking in alltagsnahen Situationen"
 
 defaults:
-  # _pages
+   _pages
   - scope:
       path: "_pages"
       type: pages
