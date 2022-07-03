@@ -12,7 +12,7 @@ Marie Mückenstein
 
 Sina A. Schwarze
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Bild_Robert.jpg" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Bild_Robert.jpg" alt="" class="full">
 
 Robert Stojan
 
