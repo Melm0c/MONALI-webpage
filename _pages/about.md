@@ -4,17 +4,16 @@ title: "Über uns"
 ---
 
 
-![Melanie](assets/images/Passbild.jpg)
-## Dr. Melanie Mack
-WWU Münster
+![Melanie](Passbild.jpg)
+### [Dr. Melanie Mack] (https://www.example.com) (WWU Münster)
 
-## Marie Mückenstein
+### Marie Mückenstein
 IPU Berlin
 
-## Sina A. Schwarze
+### Sina A. Schwarze
 MPIB Berlin
 
-## Robert Stojan
+### Robert Stojan
 WWU Münster
 
 
