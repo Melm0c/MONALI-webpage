@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Melm0c 
-Melm0c
-/
-MONALI-webpage
-Public
-generated from mmistakes/mm-github-pages-starter
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-MONALI-webpage/_config.yml
-@Melm0c
-Melm0c Update _config.yml
-Latest commit 9029380 16 hours ago
- History
- 2 contributors
-@Melm0c@mamuerie
-84 lines (76 sloc)  2.53 KB
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -66,15 +35,13 @@ header:
       url: "#bar"
 
 # Build settings
+markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 # permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-markdown: kramdown
-kramdown:
-  gfm_quirks: [paragraph_end]
 
 include:
   - _pages
@@ -113,17 +80,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
