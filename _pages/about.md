@@ -5,7 +5,7 @@ title: "Über uns"
 
 
 ![Melanie!](/assets/images/Passbild.jpg)
-##### Dr. Melanie Mack  
+**Dr. Melanie Mack**    
 WWU Münster  
 [Homepage](https://www.uni-muenster.de/Sportwissenschaft/Neuromotor-Behavior/team/mack.shtml)  
 <melanie.mack@uni-muenster.de>
