@@ -4,16 +4,17 @@ title: "Über uns"
 ---
 
 
+![My dog](assets/images/Passbild.jpg)
+## Dr. Melanie Mack
+WWU Münster
 
-# Dr. Melanie Mack
-Neuromotorik und Training, WWU Münster
+## Marie Mückenstein
+IPU Berlin
 
-Marie Mückenstein
+## Sina A. Schwarze
+MPIB Berlin
 
-Sina A. Schwarze
-
-
-Robert Stojan
-
+## Robert Stojan
+WWU Münster
 
 
