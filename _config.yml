@@ -46,7 +46,7 @@ markdown: kramdown
 #  gfm_quirks: [paragraph_end]
 
 #include:
-#_pages
+_pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -61,7 +61,7 @@ markdown: kramdown
 #   - vendor/ruby/
 
 # Plugins (previously gems:)
-#plugins:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
