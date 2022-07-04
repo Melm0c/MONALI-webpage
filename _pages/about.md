@@ -4,7 +4,7 @@ title: "Über uns"
 ---
 
 
-![My dog](assets/images/Passbild.jpg)
+![Melanie](assets/images/Passbild.jpg)
 ## Dr. Melanie Mack
 WWU Münster
 
