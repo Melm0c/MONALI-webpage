@@ -5,15 +5,18 @@ title: "Über uns"
 
 
 ![Melanie!](/assets/images/Passbild.jpg)
-### [Dr. Melanie Mack] (https://www.example.com) (WWU Münster)
+### Dr. Melanie Mack
+WWU Münster
+[Homepage]([https://duckduckgo.com "The best search engine for privacy"](https://www.uni-muenster.de/Sportwissenschaft/Neuromotor-Behavior/team/mack.shtml))
+<melanie.mack@uni-muenster.de>
 
-### Marie Mückenstein
+### Marie Mückenstein, M.Sc.
 IPU Berlin
 
-### Sina A. Schwarze
+### Sina A. Schwarze, M.Sc.
 MPIB Berlin
 
-### Robert Stojan
+### Robert Stojan,  M.Sc.
 WWU Münster
 
 
