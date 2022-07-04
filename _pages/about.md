@@ -4,7 +4,7 @@ title: "Über uns"
 ---
 
 
-![Melanie](Passbild.jpg)
+![Melanie!](/assets/images/Passbild.jpg)
 ### [Dr. Melanie Mack] (https://www.example.com) (WWU Münster)
 
 ### Marie Mückenstein
