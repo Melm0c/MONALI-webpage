@@ -3,6 +3,8 @@ permalink: /about/
 title: "Über uns"
 ---
 
+**Piesie Akwasi Gyimah Asuako, M.Sc.**  
+WWU Münster 
 
 ![Melanie!](/assets/images/Passbild.jpg)  
 **Dr. Melanie Mack**    
