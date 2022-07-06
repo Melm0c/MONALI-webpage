@@ -11,8 +11,8 @@ Die Studie findet in den Räumlichkeiten des sportwissenschaftlichen Instituts d
      48149 Münster
 
 **Busanbindung ab Hauptbahnhof:**    
-     Linie R72/R73, Haltestelle "Leonardo Campus"   
-     Linie 13, Haltestelle "Technologiepark B"   
-     Linie 2, Haltestelle "Rudolf-Harbig Weg" 
+- Linie R72/R73, Haltestelle "Leonardo Campus"   
+- Linie 13, Haltestelle "Technologiepark B"   
+- Linie 2, Haltestelle "Rudolf-Harbig Weg" 
 
 **Parkmöglichkeiten:** direkt vor dem Gebäude
