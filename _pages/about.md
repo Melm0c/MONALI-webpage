@@ -6,7 +6,7 @@ title: "Über uns"
 **Piesie Akwasi Gyimah Asuako, M.Sc.**  
 WWU Münster 
 
-![Melanie](/assets/images/Passbild.jpg)  
+![Melanie](\assets\images\Passbild.jpg)  
 ![Melanie](/https://melm0c.github.io/MONALI-webpage/about/assets/images/Passbild.jpg)
 ![Melanie](https://melm0c.github.io/MONALI-webpage/about/assets/images/Passbild.jpg)
 
