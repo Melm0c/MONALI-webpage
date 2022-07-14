@@ -5,7 +5,7 @@
 layout: home
 # layout: single
 author_profile: true
-#permalink: /_pages/start.md
+permalink: /_pages/start.md
 #title: "MONALI"
 # permanentlink: /_pages/start.md
 ---
