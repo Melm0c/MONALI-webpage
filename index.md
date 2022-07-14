@@ -5,9 +5,9 @@
 layout: home
 # layout: single
 author_profile: true
-#permalink: /start/
+#permalink: /_pages/start.md
 #title: "MONALI"
-permanentlink: /_pages/start.md
+# permanentlink: /_pages/start.md
 ---
 
 Modalitäts-Effekte in alltagsähnlichen Situationen (MONALI)
