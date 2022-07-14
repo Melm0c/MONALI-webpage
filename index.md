@@ -3,8 +3,8 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #layout: home
-#layout: single
-#author_profile: true
+layout: single
+author_profile: true
 permalink: /_pages/about/
 title: "Über uns"
 # permanentlink: /_pages/about.md
