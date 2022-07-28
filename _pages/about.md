@@ -11,7 +11,7 @@ WWU Münster
 <pasuako@uni-muenster.de>      
 
 
-<img src="/MONALI-webpage/assets/images/Passbild.jpg" width="150">    
+<img align="left" src="/MONALI-webpage/assets/images/Passbild.jpg" width="150">    
 **Dr. Melanie Mack**    
 WWU Münster  
 [Homepage](https://www.uni-muenster.de/Sportwissenschaft/Neuromotor-Behavior/team/mack.shtml)  
