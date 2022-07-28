@@ -29,7 +29,7 @@ MPIB Berlin
 
 ![Robert](/MONALI-webpage/assets/images/Robert.jpg)  
 **Robert Stojan,  M.Sc.**    
-WWU Münster
+WWU Münster    
 [Homepage](https://www.uni-muenster.de/Sportwissenschaft/Neuromotor-Behavior/team/stojan.shtml)  
 <robert.stojan@uni-muenster.de>
 
