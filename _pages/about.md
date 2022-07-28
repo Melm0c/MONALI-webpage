@@ -4,7 +4,7 @@ title: "Über uns"
 ---
 
 
-<align="left" src="/MONALI-webpage/assets/images/Piesie.jpg" width="150">
+<img align="left" src="/MONALI-webpage/assets/images/Piesie.jpg" width="150">
 **Piesie Akwasi Gyimah Asuako, M.Sc.**  
 WWU Münster 
 [Homepage](https://www.uni-muenster.de/Sportwissenschaft/Neuromotor-Behavior/team/asuako.shtml)  
