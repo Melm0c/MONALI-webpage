@@ -17,7 +17,7 @@ WWU Münster
 <melanie.mack@uni-muenster.de>
 
 
-<img src="/MONALI-webpage/assets/images/marie.jpg" width="150">    
+<img src="/MONALI-webpage/assets/images/Marie.jpg" width="150">    
 **Marie Mückenstein, M.Sc.**    
 IPU Berlin
 [Homepage](https://www.ipu-berlin.de/wissenschaftliche-mitarbeiter/mueckstein-marie/)  
