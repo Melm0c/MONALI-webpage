@@ -4,14 +4,15 @@ title: "Über uns"
 ---
 
 
-<img align="left" src="/MONALI-webpage/assets/images/Piesie.jpg" width="150">
+<img src="/MONALI-webpage/assets/images/Piesie.jpg" width="150">    
 **Piesie Akwasi Gyimah Asuako, M.Sc.**  
 WWU Münster 
-[Homepage](https://www.uni-muenster.de/Sportwissenschaft/Neuromotor-Behavior/team/asuako.shtml)  
-<pasuako@uni-muenster.de>      
+[Piesie Akwasi Gyimah Asuako, M.Sc.](https://www.uni-muenster.de/Sportwissenschaft/Neuromotor-Behavior/team/asuako.shtml)  
+WWU Münster    
+<pasuako@uni-muenster.de>
 
 
-<img align="left" src="/MONALI-webpage/assets/images/Passbild.jpg" width="150">    
+<img src="/MONALI-webpage/assets/images/Passbild.jpg" width="150">    
 **Dr. Melanie Mack**    
 WWU Münster  
 [Homepage](https://www.uni-muenster.de/Sportwissenschaft/Neuromotor-Behavior/team/mack.shtml)  
