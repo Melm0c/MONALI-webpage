@@ -3,31 +3,35 @@ permalink: /about/
 title: "Über uns"
 ---
 
-<img src="/MONALI-webpage/assets/images/Piesie.jpg" width="150">
+<img src="/MONALI-webpage/assets/images/Piesie.jpg" width="150">    
 **Piesie Akwasi Gyimah Asuako, M.Sc.**  
 WWU Münster 
 [Homepage](https://www.uni-muenster.de/Sportwissenschaft/Neuromotor-Behavior/team/asuako.shtml)  
 <pasuako@uni-muenster.de>
 
-![Melanie](/MONALI-webpage/assets/images/Passbild.jpg)  
+
+<img src="/MONALI-webpage/assets/images/Passbild.jpg" width="150">    
 **Dr. Melanie Mack**    
 WWU Münster  
 [Homepage](https://www.uni-muenster.de/Sportwissenschaft/Neuromotor-Behavior/team/mack.shtml)  
 <melanie.mack@uni-muenster.de>
 
-![Marie](/MONALI-webpage/assets/images/Marie.jpg)  
+
+<img src="/MONALI-webpage/assets/images/marie.jpg" width="150">    
 **Marie Mückenstein, M.Sc.**    
 IPU Berlin
 [Homepage](https://www.ipu-berlin.de/wissenschaftliche-mitarbeiter/mueckstein-marie/)  
 <marie.mueckstein@ipu-berlin.de>
 
-![Sina](/MONALI-webpage/assets/images/Sina.jpg)  
+
+<img src="/MONALI-webpage/assets/images/Sina.jpg" width="150">    
 **Sina A. Schwarze, M.Sc.**    
 MPIB Berlin
 [Homepage](https://www.mpib-berlin.mpg.de/person/103738/2537)  
 <schwarze@mpib-berlin.mpg.de>
 
-![Robert](/MONALI-webpage/assets/images/Robert.jpg)  
+
+<img src="/MONALI-webpage/assets/images/Robert.jpg" width="150">    
 **Robert Stojan,  M.Sc.**    
 WWU Münster    
 [Homepage](https://www.uni-muenster.de/Sportwissenschaft/Neuromotor-Behavior/team/stojan.shtml)  
