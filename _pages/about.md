@@ -3,6 +3,12 @@ permalink: /about/
 title: "Über uns"
 ---
 
+
+|First Image|Second Image|
+|:-:|:-:|
+|![First Image](/MONALI-webpage/assets/images/Piesie.jpg?h=750&w=1260)|![Second Image](/MONALI-webpage/assets/images/Piesie.jpg?h=750&w=1260)|
+
+
 <img src="/MONALI-webpage/assets/images/Piesie.jpg" width="150">    
 **Piesie Akwasi Gyimah Asuako, M.Sc.**  
 WWU Münster 
