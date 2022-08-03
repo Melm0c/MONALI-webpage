@@ -80,6 +80,17 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
       
 #url: 'https://Melm0c.github.io/' # your main domain
 #baseurl: 'MIND2/' # if you're using custom domain keep this blank example: 
