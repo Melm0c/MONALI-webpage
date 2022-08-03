@@ -16,3 +16,5 @@ Die Studie findet in den Räumlichkeiten des sportwissenschaftlichen Instituts d
 - Linie 2, Haltestelle "Rudolf-Harbig Weg" 
 
 **Parkmöglichkeiten:** direkt vor dem Gebäude
+
+<img src="/MONALI-webpage/assets/images/Anfahrt_Leo15.jpg" width="400">    
