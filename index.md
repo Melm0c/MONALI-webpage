@@ -9,6 +9,7 @@ layout: home
 #title: "Über uns"
 # permanentlink: /_pages/about.md
 ---
+<img src="/MONALI-webpage/assets/images/logo_ds.jpg" width="800">   
 
 **Studie zur Erforschung von Multitasking in alltagsnahen Situationen ("MONALI")**    
 In diesem Projekt wollen wir die Fähigkeit untersuchen, in einfachen und in komplexen Situationen auf Reize schnell und richtig zu reagieren. 
