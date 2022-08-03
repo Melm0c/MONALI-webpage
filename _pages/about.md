@@ -6,14 +6,14 @@ title: "Über uns"
 
 <img src="/MONALI-webpage/assets/images/Piesie.jpg" width="150">   
 **Piesie Akwasi Gyimah Asuako, M.Sc.**  
-WWU Münster   
+WWU Münster
 [Homepage](https://www.uni-muenster.de/Sportwissenschaft/Neuromotor-Behavior/team/asuako.shtml)    
 <pasuako@uni-muenster.de>
 
 
 <img src="/MONALI-webpage/assets/images/Passbild.jpg" width="150">    
 **Dr. Melanie Mack**    
-WWU Münster  
+WWU Münster
 [Homepage](https://www.uni-muenster.de/Sportwissenschaft/Neuromotor-Behavior/team/mack.shtml)  
 <melanie.mack@uni-muenster.de>
 
@@ -34,7 +34,7 @@ MPIB Berlin
 
 <img src="/MONALI-webpage/assets/images/Robert.jpg" width="150">    
 **Robert Stojan,  M.Sc.**    
-WWU Münster    
+WWU Münster
 [Homepage](https://www.uni-muenster.de/Sportwissenschaft/Neuromotor-Behavior/team/stojan.shtml)  
 <robert.stojan@uni-muenster.de>
 
