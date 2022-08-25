@@ -4,9 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 #layout: single
-author_profile: true
-permalink: /_pages/about.md/
-title: "Über uns"
+#author_profile: true
+#permalink: /_pages/about.md/
+#title: "Über uns"
 # permanentlink: /_pages/about.md
 ---
 <img src="/MONALI-webpage/assets/images/logo_ds.jpg" width="800">   
