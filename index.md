@@ -21,8 +21,9 @@ Im Alltag sind wir oft mit komplexen Situationen konfrontiert, die es erfordern,
 **Studienteilnehmer:innen gesucht**    
 Die Datenerhebungsphase für unsere Studie beginnt im September für einen Zeitraum von 3 Monaten. Hierfür suchen wir interessierte Teilnehmer:innen. Unsere Studie richtet sich an Kinder im Alter von 9 bis 10 Jahren, junge Erwachsene im Alter von 20 bis 30 Jahren und ältere Erwachsene im Alter von 65 bis 75 Jahren. Die Messungen bestehen aus zwei Terminen a 1.5 Stunden. Sie werden an zwei unterschiedlichen Tagen am [Institut für Sportwissenschaft der Universität Münster](https://melm0c.github.io/MONALI-webpage/studyplace/) durchgeführt und von erfahrenen Forschern:innen angeleitet. Teilnehmende erhalten Einblick in ein aktuelles Forschungsprojekt und erhalten außerdem eine Aufwandsentschädigung.
 
+Haben Sie Interesse an einer Studienteilnahme, dann klicken sie hier (Link zum Fragebogen + Kalender).    
 
-Haben Sie Interesse an einer Studienteilnahme, dann klicken sie [hier](https://melm0c.github.io/MONALI-webpage/studyInfo/).     
+Mehr Informationen zur Studie finden Sie [hier](https://melm0c.github.io/MONALI-webpage/studyInfo/).     
 
 Bei Fragen oder Anmerkungen, kontaktieren Sie uns gerne!    
 **Mailadresse**: <monali-studie@uni-muenster.de>         
