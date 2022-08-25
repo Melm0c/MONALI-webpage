@@ -11,9 +11,19 @@ layout: home
 ---
 <img src="/MONALI-webpage/assets/images/logo_ds.jpg" width="800">   
 
-**Studie zur Erforschung von Multitasking in alltagsnahen Situationen ("MONALI")**    
-In diesem Projekt wollen wir die Fähigkeit untersuchen, in einfachen und in komplexen Situationen auf Reize schnell und richtig zu reagieren. 
-Insbesondere in komplexe Situationen, wie Autofahren oder aber auch im Auto als Beifahrer nur mitfahren sind wir einer großen Anzahl an Informationen ausgesetzt. Entgegenkommende Autos, Anzeigen auf dem Navigationsgerät, etc. Diese Informationen sind teilweise relevant und erfordern eine Reaktin (Anzeigen auf dem Navi) oder sie sind irrelavenat und müssen dementsprechen ignoriert werden. Diese selektive Informationsverarbeitung     
+***Studie zur Erforschung von Multitasking in alltagsnahen Situationen ("MONALI")***
+Die von der Deutschen Forschungsgemeinschaft (DFG) geförderte Studie ist ein Teil des Schwerpunktprogramms Multitasking. Das Ziel des Kooperationsprojekts von Sportwissenschaftler:innen und Psycholog:innen aus Münster und Berlin ist die Erforschung von Multitasking in alltagsnahen Situationen.
 
-**Beispieltext MIND2 (so ähnlich soll das später mal aussehen):**    
-Im Alltag sind wir häufig mit Situationen konfrontiert, in denen wir mehrere Aufgaben gleichzeitig bearbeiten müssen, sog. Multitasking (z.B. Autofahren und dabei mit dem Beifahrer sprechen, durch die Stadt gehen und dabei eine Nachricht auf dem Smartphone schreiben, etc.). Mit zunehmendem Alter fällt uns das Multitasking schwerer; die Folgen sind Leistungseinbußen, Misserfolge und steigende Unfall- und Verletzungsrisiken. Langfristig kann dies sogar zum Verlust des unabhängigen und selbständigen Lebens führen. Wissenschaftliche Untersuchungen lassen vermuten, dass durch ein zielgerichtetes, individuelles Training altersbedingten Veränderungen und den damit verbundenen Alltagseinschränkungen entgegengewirkt werden kann. Wie genau das Training gestaltet sein muss und welche Faktoren dabei eine Rolle spielen, ist bisher aber noch weitgehend unerforscht. Das Ziel der Sportwissenschaftler*innnen sowie Psycholog*innen der WWU Münster ist es, herauszufinden, wie genau ein solches Training gestaltet sein muss, um die Multitasking-Fähigkeiten nachweisbar zu verbessern. Studienteilnehmer*innen im höheren Alter werden hierfür im mehrere Monate begleitet und untersucht. Sie nehmen an unterschiedlichen Trainingsinterventionen teil, die sowohl die geistigen als auch die körperliche Fitness trainieren. Der Erfolg des Trainings wird durch motorische, neurophysiologische und kognitive Testverfahren vor und nach der Trainingsphase ermittelt.
+**Hintergrund**
+
+Im Alltag sind wir oft mit komplexen Situationen konfrontiert, die es erfordern, dass wir auf mehrere Reize gleichzeitig schnell und richtig reagieren - das sogenannte Multitasking. Als Autofahrer:in, aber auch als Mitfahrer:in sind das beispielsweise entgegenkommende Autos, Anzeigen am Fahrbahnrand oder verbale Hinweise des Navigationsgeräts, aber auch anderer Autoinsassen. Die adäquaten Reaktionen können dabei sehr unterschiedliche sein - von verbalen Antworten an andere Autoinsassen, bis hin zu manuellen Eingaben in das Navigationsgerät. Das Ziel der Forscher:innen ist es nun herauszufinden, wie sich diese Multitaskingfähigkeit über die Lebenspanne hinweg verändert und welche Rolle altersbedingte Einflüsse wie Übung oder Veränderungen der kognitiven Fähigkeiten spielen. Studienteilnehmer:innen aus drei verschiedenen Altersgruppen (Kinder, junge Erwachsene und ältere Erwachsene) werden hierfür untersucht. Ihnen werden Reize entweder auf einen Computer-Bildschirm oder in alltagsähnlichen Situationen dargeboten. Im letzten Fall werden sie als Beifahrer*in in einem Fahrsimulator Auto mitfahren. Dabei werden ihnen während der Fahrt Aufgaben gestellt.
+
+**Studienteilnehmer:innen gesucht**
+
+Die Datenerhebungsphase für unsere Studie beginnt im September für einen Zeitraum von 3 Monaten. Hierfür suchen wir interessierte Teilnehmer:innen. Unsere Studie richtet sich an Kinder im Alter von 4 bis 10 Jahren, junge Erwachsene im Alter von 18 bis 30 Jahren und ältere Erwachsene im Alter von 65 bis 75 Jahren. Die Messungen bestehen aus zwei Terminen a 1.5 Stunden. Sie werden an zwei unterschiedlichen Tagen am Institut für Sportwissenschaft der Universität Münster (Leonardo-Campus) durchgeführt und von erfahrenen Forschern:innen angeleitet. Teilnehmende erhalten Einblick in ein aktuelles Forschungsprojekt und erhalten außerdem eine Aufwandsentschädigung in Höhe von insgesamt 30 Euro.
+
+
+Haben Sie Interesse an einer Studienteilnahme oder Fragen/Anmerkungen, dann kontaktieren Sie uns!    
+Mailadresse: monali-studie@uni-muenster.de    
+Telefonnummer: xx   
+
