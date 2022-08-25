@@ -42,6 +42,8 @@ Wenn Sie gerne an der Studie teilnehmen würden, dann klicken Sie bitte hier (Li
 * Eigene gesundheitliche Bedenken
 * Linkshändigkeit
 
+------
+
 ### Ältere Erwachsene
 **Einschlusskriterien:**        
 * Alter zwischen 65 und 75 Jahre zum Zeitpunkt der Testung
