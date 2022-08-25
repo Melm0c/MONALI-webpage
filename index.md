@@ -2,11 +2,12 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+#layout: home
+<!-- layout: home -->
 #layout: single
-#author_profile: true
-#permalink: /_pages/about/
-#title: "Über uns"
+author_profile: true
+permalink: /_pages/about.md/
+title: "Über uns"
 # permanentlink: /_pages/about.md
 ---
 <img src="/MONALI-webpage/assets/images/logo_ds.jpg" width="800">   
