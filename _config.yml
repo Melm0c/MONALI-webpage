@@ -81,15 +81,15 @@ defaults:
       layout: single
       author_profile: true
   # _posts
- # - scope:
-  #    path: ""
-  #    type: posts
- #   values:
- #     layout: single
- #     author_profile: true
- #     read_time: false
- #     comments: true
- #     share: true
+  - scope:
+      path: ""
+      type: pages #posts
+    values:
+      layout: single
+      author_profile: true
+  #    read_time: false
+  #    comments: true
+  #    share: true
  #     related: true
       
 #url: 'https://Melm0c.github.io/' # your main domain
