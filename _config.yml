@@ -69,7 +69,7 @@ plugins:
 
 author:
   name   : "Studie MONALI"
-  avatar : "/assets/images/Icon_Monali_v2.png"
+  avatar : "/assets/images/Icon_Monali.png"
   bio    : "Studie zur Erforschung von Multitasking in alltagsnahen Situationen"
 
 defaults:
