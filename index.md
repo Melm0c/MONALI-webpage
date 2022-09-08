@@ -21,14 +21,15 @@ Die von der Deutschen Forschungsgemeinschaft (DFG) geförderte Studie ist ein Te
 Im Alltag sind wir oft mit komplexen Situationen konfrontiert, die es erfordern, dass wir auf mehrere Reize gleichzeitig schnell und richtig reagieren - das sogenannte Multitasking. Als Autofahrer:in, aber auch als Mitfahrer:in sind das beispielsweise entgegenkommende Autos, Anzeigen am Fahrbahnrand oder verbale Hinweise des Navigationsgeräts, aber auch anderer Autoinsassen. Die adäquaten Reaktionen können dabei sehr unterschiedliche sein - von verbalen Antworten an andere Autoinsassen, bis hin zu manuellen Eingaben in das Navigationsgerät. Das Ziel der Forscher:innen ist es nun herauszufinden, wie sich diese Multitaskingfähigkeit über die Lebenspanne hinweg verändert und welche Rolle altersbedingte Einflüsse wie Übung oder Veränderungen der kognitiven Fähigkeiten spielen. Studienteilnehmer:innen aus drei verschiedenen Altersgruppen (Kinder, junge Erwachsene und ältere Erwachsene) werden hierfür untersucht. Ihnen werden Reize entweder auf einen Computer-Bildschirm oder in alltagsähnlichen Situationen dargeboten. Im letzten Fall werden sie als Beifahrer:in in einem Fahrsimulator Auto mitfahren. Dabei werden ihnen während der Fahrt Aufgaben gestellt.
 
 **Studienteilnehmer:innen gesucht**    
-Die Datenerhebungsphase für unsere Studie beginnt im September für einen Zeitraum von 3 Monaten. Hierfür suchen wir interessierte Teilnehmer:innen. Unsere Studie richtet sich an Kinder im Alter von 9 bis 10 Jahren, junge Erwachsene im Alter von 20 bis 30 Jahren und ältere Erwachsene im Alter von 65 bis 75 Jahren. Die Messungen bestehen aus zwei Terminen a 1.5 Stunden. Sie werden an zwei unterschiedlichen Tagen am [Institut für Sportwissenschaft der Universität Münster](https://melm0c.github.io/MONALI-webpage/studyplace/) durchgeführt und von erfahrenen Forschern:innen angeleitet. Teilnehmende erhalten Einblick in ein aktuelles Forschungsprojekt und erhalten außerdem eine Aufwandsentschädigung.
+Die Datenerhebungsphase für unsere Studie beginnt im Oktober für einen Zeitraum von 3 Monaten. Hierfür suchen wir interessierte Teilnehmer:innen. Unsere Studie richtet sich an Kinder im Alter von 9 bis 10 Jahren, junge Erwachsene im Alter von 20 bis 30 Jahren und ältere Erwachsene im Alter von 65 bis 75 Jahren. Die Messungen bestehen aus zwei Terminen a 1.5 Stunden. Sie werden an zwei unterschiedlichen Tagen am [Institut für Sportwissenschaft der Universität Münster](https://melm0c.github.io/MONALI-webpage/studyplace/) durchgeführt und von erfahrenen Forschern:innen angeleitet. Teilnehmende erhalten Einblick in ein aktuelles Forschungsprojekt und erhalten außerdem eine Aufwandsentschädigung.
 
 Haben Sie Interesse an einer Studienteilnahme, dann klicken sie hier (Link zum Fragebogen + Kalender).    
 
 Mehr Informationen zur Studie finden Sie [hier](https://melm0c.github.io/MONALI-webpage/studyInfo/).     
 
 Bei Fragen oder Anmerkungen, kontaktieren Sie uns gerne!    
-**Mailadresse**: <monali-studie@uni-muenster.de>         
-**Telefonnummer**: xx   
+**Mailadresse**: <monali.studie@uni-muenster.de>         
+**Telefonnummer**: +49 251 83 32428
+   
 
     
