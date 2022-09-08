@@ -29,7 +29,7 @@ Mehr Informationen zur Studie finden Sie [hier](https://melm0c.github.io/MONALI-
 
 Bei Fragen oder Anmerkungen, kontaktieren Sie uns gerne!    
 **Mailadresse**: <monali.studie@uni-muenster.de>         
-**Telefonnummer**: +49 251 83 32428
+**Telefonnummer**: +49 (0) 251 / 83 32428
    
 
     
