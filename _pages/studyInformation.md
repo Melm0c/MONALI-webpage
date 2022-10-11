@@ -10,7 +10,7 @@ Die Datenerhebungsphase für unsere Studie beginnt im Oktober für einen Zeitrau
 
 Unsere Studie richtet sich an Kinder im Alter von 9 bis 10 Jahren, junge Erwachsene im Alter von 20 bis 30 Jahren und ältere Erwachsene im Alter von 65 bis 75 Jahren.  Die jeweiligen Teilnahmebedingungen finden sie im folgenden.
 
-Wenn Sie gerne an der Studie teilnehmen würden, dann klicken Sie bitte [hier] (https://www.soscisurvey.de/monali_pre/) oder kontaktieren uns per Mail (<monali.studie@uni-muenster.de>) oder Telefon (+49 (0) 251 / 83 32428)
+Wenn Sie gerne an der Studie teilnehmen würden, dann buchen Sie direkt einen Termin in unserem [Kalender](https://www.soscisurvey.de/monali_pre/) oder kontaktieren uns per Mail (<monali.studie@uni-muenster.de>) oder Telefon (+49 (0) 251 / 83 32428)
 
 ## Teilnahmebedingungen
 ### Kinder
