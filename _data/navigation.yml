@@ -1,8 +1,6 @@
 main:
   - title: "Information zur Studie"
     url: /studyInfo/
-  - title: "Dokumente zur Studie"
-    url: /studyInfoPDF/
   - title: "Studienort"
     url: /studyplace/
   - title: "Über uns"
