@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Die Datenerhebungsphase für unsere Studie beginnt im Oktober für einen Zeitraum von 3 Monaten. Die Messungen bestehen aus zwei Terminen a 1.5 Stunden. Sie werden an zwei unterschiedlichen Tagen am Institut für Sportwissenschaft der Universität Münster (Leonardo-Campus, siehe auch [Studienort](https://melm0c.github.io/MONALI-webpage/studyplace/)) durchgeführt und von erfahrenen Forschern:innen angeleitet. 
+Die Datenerhebungsphase für unsere Studie beginnt im Januar 2023 für einen Zeitraum von 4-6 Monaten. Die Messungen bestehen aus zwei Terminen a 1.5 Stunden. Sie werden an zwei unterschiedlichen Tagen am Institut für Sportwissenschaft der Universität Münster (Leonardo-Campus, siehe auch [Studienort](https://melm0c.github.io/MONALI-webpage/studyplace/)) durchgeführt und von erfahrenen Forschern:innen angeleitet. 
 
 Unsere Studie richtet sich an Kinder im Alter von 9 bis 10 Jahren, junge Erwachsene im Alter von 20 bis 30 Jahren und ältere Erwachsene im Alter von 65 bis 75 Jahren.  Die jeweiligen Teilnahmebedingungen finden sie im folgenden.
 
